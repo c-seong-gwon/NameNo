@@ -1,0 +1,10 @@
+C:\Users\SeongGwon\Desktop\대학\기업솔루션\1주차\C_TextView\C_TextView\bin\Debug\C_TextView.exe.config
+C:\Users\SeongGwon\Desktop\대학\기업솔루션\1주차\C_TextView\C_TextView\bin\Debug\C_TextView.exe
+C:\Users\SeongGwon\Desktop\대학\기업솔루션\1주차\C_TextView\C_TextView\bin\Debug\C_TextView.pdb
+C:\Users\SeongGwon\Desktop\대학\기업솔루션\1주차\C_TextView\C_TextView\obj\Debug\C_TextView.csprojAssemblyReference.cache
+C:\Users\SeongGwon\Desktop\대학\기업솔루션\1주차\C_TextView\C_TextView\obj\Debug\C_TextView.Form1.resources
+C:\Users\SeongGwon\Desktop\대학\기업솔루션\1주차\C_TextView\C_TextView\obj\Debug\C_TextView.Properties.Resources.resources
+C:\Users\SeongGwon\Desktop\대학\기업솔루션\1주차\C_TextView\C_TextView\obj\Debug\C_TextView.csproj.GenerateResource.cache
+C:\Users\SeongGwon\Desktop\대학\기업솔루션\1주차\C_TextView\C_TextView\obj\Debug\C_TextView.csproj.CoreCompileInputs.cache
+C:\Users\SeongGwon\Desktop\대학\기업솔루션\1주차\C_TextView\C_TextView\obj\Debug\C_TextView.exe
+C:\Users\SeongGwon\Desktop\대학\기업솔루션\1주차\C_TextView\C_TextView\obj\Debug\C_TextView.pdb
